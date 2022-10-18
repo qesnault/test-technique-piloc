@@ -44,7 +44,7 @@ export function makeServer({ environment = "development" } = {}) {
                 "updated_at": "2022-01-02 09:00:00",
                 "rented_at": "2021-11-30",
                 "name": "Maison Secondaire",
-                "image": "https://images.unsplash.com/photo-1486748719772-dac71e23eaa1?w=1080",
+                "image": "https://images.unsplash.com/photo-1603090067595-c3febef4765f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY2NjExNTMzNg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
                 "address": {
                     "number": 15,
                     "street": "rue du Paradisss",
